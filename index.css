@@ -1,8 +1,17 @@
 .image{
-    position: relative;
-    bottom: 380px;
+ position: relative;
+ bottom: 380px;
 }
-.last{
+.text-right{
     position: relative;
-    bottom: 820px;
+    bottom: 820px
+}
+.foot{
+    height: 400px;
+    position: relative;
+    bottom:800px ;
+}
+.end{
+    position: relative;
+    bottom: 750px;
 }
